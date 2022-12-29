@@ -1,0 +1,38 @@
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\bin\Debug\net7.0-windows\NotePad.exe
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\bin\Debug\net7.0-windows\NotePad.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\bin\Debug\net7.0-windows\NotePad.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\bin\Debug\net7.0-windows\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\bin\Debug\net7.0-windows\NotePad.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.csproj.AssemblyReference.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.Form1.resources
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.Properties.Resources.resources
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.csproj.GenerateResource.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.AssemblyInfoInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.AssemblyInfo.cs
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.csproj.CoreCompileInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\refint\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.genruntimeconfig.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\ref\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad\NotePad\obj\Debug\net7.0-windows\NotePad.find.resources
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\bin\Debug\net7.0-windows\NotePad.exe
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\bin\Debug\net7.0-windows\NotePad.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\bin\Debug\net7.0-windows\NotePad.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\bin\Debug\net7.0-windows\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\bin\Debug\net7.0-windows\NotePad.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.csproj.AssemblyReference.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.Form1.resources
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.Properties.Resources.resources
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.csproj.GenerateResource.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.AssemblyInfoInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.AssemblyInfo.cs
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.csproj.CoreCompileInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\refint\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.genruntimeconfig.cache
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\ref\NotePad.dll
+D:\MyDev Porject\C#\Fundamentals of C#\NotePad - Copy\NotePad\obj\Debug\net7.0-windows\NotePad.About.resources

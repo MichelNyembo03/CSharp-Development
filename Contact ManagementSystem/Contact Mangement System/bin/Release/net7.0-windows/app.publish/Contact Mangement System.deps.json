@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Contact Mangement System/1.0.0": {
+        "dependencies": {
+          "PageList": "1.2.0"
+        },
+        "runtime": {
+          "Contact Mangement System.dll": {}
+        }
+      },
+      "PageList/1.2.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/PageList.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contact Mangement System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PageList/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cE0TmBfCTtVu3mjI1Ghi2g/F3pOCqOO0i8tp3+gPqbNqdUkayzosmWo2BNPdoAJarF80RAWWsZbrt1BGIVOpjA==",
+      "path": "pagelist/1.2.0",
+      "hashPath": "pagelist.1.2.0.nupkg.sha512"
+    }
+  }
+}

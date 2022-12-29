@@ -1,0 +1,5 @@
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\app.publish\Tic Tac Toe.exe
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\app.publish\Tic Tac Toe.dll
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\app.publish\Tic Tac Toe.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\app.publish\Tic Tac Toe.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\app.publish\Tic Tac Toe.pdb

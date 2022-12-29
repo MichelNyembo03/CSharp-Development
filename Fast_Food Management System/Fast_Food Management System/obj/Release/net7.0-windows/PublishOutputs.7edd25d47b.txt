@@ -1,0 +1,12 @@
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\Fast_Food Management System.exe
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\Fast_Food Management System.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\Fast_Food Management System.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\Fast_Food Management System.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\Fast_Food Management System.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\MaterialSkin.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\System.Data.SqlClient.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Release\net7.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

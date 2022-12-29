@@ -1,0 +1,21 @@
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.exe
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.dll
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic_Tac_Toe.Form1.resources
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.AssemblyInfo.cs
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.dll
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\refint\Tic Tac Toe.dll
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.genruntimeconfig.cache
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\ref\Tic Tac Toe.dll
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.dll.manifest
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\bin\Release\net7.0-windows\Tic Tac Toe.application
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.dll.manifest
+D:\MyDev Porject\C#\Fundamentals of C#\TicTacToe\Tic Tac Toe\obj\Release\net7.0-windows\Tic Tac Toe.application

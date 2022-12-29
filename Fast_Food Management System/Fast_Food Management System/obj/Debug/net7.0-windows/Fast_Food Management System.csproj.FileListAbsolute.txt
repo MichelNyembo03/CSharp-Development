@@ -1,0 +1,36 @@
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.exe
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.AssemblyReference.cache
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Form1.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Properties.Resources.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.GenerateResource.cache
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.AssemblyInfoInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.AssemblyInfo.cs
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.CoreCompileInputs.cache
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\refint\Fast_Food Management System.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.genruntimeconfig.cache
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\ref\Fast_Food Management System.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.LoginForm.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.CopyComplete
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.Home.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.ListItem.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.AddItem.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.UpdateItem.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.HomeForm.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.PointeOfSale.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Items.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Receipt.resources
+D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Quantity.resources

@@ -1,0 +1,6 @@
+D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Release\net7.0-windows\app.publish\Contact Mangement System.exe
+D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Release\net7.0-windows\app.publish\Contact Mangement System.dll
+D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Release\net7.0-windows\app.publish\Contact Mangement System.deps.json
+D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Release\net7.0-windows\app.publish\Contact Mangement System.runtimeconfig.json
+D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Release\net7.0-windows\app.publish\Contact Mangement System.pdb
+D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Release\net7.0-windows\app.publish\PageList.dll

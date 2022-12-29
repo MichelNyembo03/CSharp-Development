@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact>
+    <Id>2Y</Id>
+    <Name>Marc</Name>
+    <SurName>Nyembo</SurName>
+    <Title>Designer</Title>
+    <Email>marcNyembo11@gmail.com</Email>
+    <Phone>0772628271</Phone>
+    <Address>Zambia, Lusaka</Address>
+  </Contact>
+  <Contact>
+    <Id>10X</Id>
+    <Name>Leon</Name>
+    <SurName>Mwilambwe</SurName>
+    <Title>Programmer</Title>
+    <Email>LemM12@gmail.com</Email>
+    <Phone>0925468523</Phone>
+    <Address>USA, Kentucky</Address>
+  </Contact>
+  <Contact>
+    <Id>90D</Id>
+    <Name>David</Name>
+    <SurName>Wembo</SurName>
+    <Title>Truck Driver</Title>
+    <Email>Dabid_d@gmail.com</Email>
+    <Phone>0778569742</Phone>
+    <Address>USA, Texas state</Address>
+  </Contact>
+  <Contact>
+    <Id>15X</Id>
+    <Name>Laure</Name>
+    <SurName>Kidi</SurName>
+    <Title>Programmer</Title>
+    <Email>LaureKidi00@gmail.com</Email>
+    <Phone>0998569412</Phone>
+    <Address>Drc, Kzi</Address>
+  </Contact>
+  <Contact>
+    <Id>80K</Id>
+    <Name>Jean-Michel</Name>
+    <SurName>Nyembo</SurName>
+    <Title>Senier Dev</Title>
+    <Email>michelNyembo99@outlook.com</Email>
+    <Phone>0854268795</Phone>
+    <Address>Canada, Quebec</Address>
+  </Contact>
+  <Contact>
+    <Id>5R</Id>
+    <Name>Didi</Name>
+    <SurName>Nyembo</SurName>
+    <Title>Front-End Dev</Title>
+    <Email>didi@gmail.com</Email>
+    <Phone>0568947563</Phone>
+    <Address>France, Paris</Address>
+  </Contact>
+  <Contact>
+    <Id>3Y</Id>
+    <Name>Pnmls</Name>
+    <SurName>Nyembo</SurName>
+    <Title>Designer</Title>
+    <Email>pnmls@gmail.com</Email>
+    <Phone>0245689632</Phone>
+    <Address>Drc, Kzi</Address>
+  </Contact>
+</Contacts>

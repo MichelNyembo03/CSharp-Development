@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Admins>
+  <Admin>
+    <Id>1</Id>
+    <UserName>Admin</UserName>
+    <Password>admin</Password>
+  </Admin>
+</Admins>
