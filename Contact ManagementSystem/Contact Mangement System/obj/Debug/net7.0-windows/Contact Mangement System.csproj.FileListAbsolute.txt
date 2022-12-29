@@ -29,3 +29,34 @@ D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangemen
 D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Login.resources
 D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\PageList.dll
 D:\MyDev Porject\C#\Fundamentals of C#\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.csproj.CopyComplete
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\Contact Mangement System.exe
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\Contact Mangement System.deps.json
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\Contact Mangement System.runtimeconfig.json
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\Contact Mangement System.dll
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\Contact Mangement System.pdb
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\bin\Debug\net7.0-windows\PageList.dll
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.csproj.AssemblyReference.cache
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.About.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Contact.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Dashboard.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.ErrorNotFound.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Failed.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.InsertContact.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Login.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Main.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Properties.Resources.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Success.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.Update.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.UserLoginError.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact_Mangement_System.ViewContact.resources
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.csproj.GenerateResource.cache
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.AssemblyInfoInputs.cache
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.AssemblyInfo.cs
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.csproj.CoreCompileInputs.cache
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.csproj.CopyComplete
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.dll
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\refint\Contact Mangement System.dll
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.pdb
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\Contact Mangement System.genruntimeconfig.cache
+D:\DeskTopApp\C#\All\Contact ManagementSystem\Contact Mangement System\obj\Debug\net7.0-windows\ref\Contact Mangement System.dll

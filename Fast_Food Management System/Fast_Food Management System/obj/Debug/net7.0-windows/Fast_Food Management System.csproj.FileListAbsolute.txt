@@ -34,3 +34,39 @@ D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Man
 D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Items.resources
 D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Receipt.resources
 D:\MyDev Porject\C#\Fundamentals of C#\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Quantity.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.exe
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.deps.json
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.runtimeconfig.json
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\Fast_Food Management System.pdb
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.AssemblyReference.cache
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Form1.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.LoginForm.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.AddItem.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.Home.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.HomeForm.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.ListItem.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Management.UpdateItem.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Items.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.PointeOfSale.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Quantity.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.POS.Receipt.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food_Management_System.Properties.Resources.resources
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.GenerateResource.cache
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.AssemblyInfoInputs.cache
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.AssemblyInfo.cs
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.CoreCompileInputs.cache
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.csproj.CopyComplete
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\refint\Fast_Food Management System.dll
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.pdb
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\Fast_Food Management System.genruntimeconfig.cache
+D:\DeskTopApp\C#\All\Fast_Food Management System\Fast_Food Management System\obj\Debug\net7.0-windows\ref\Fast_Food Management System.dll

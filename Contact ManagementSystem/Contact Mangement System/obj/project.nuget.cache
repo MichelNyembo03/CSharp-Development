@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPtQeh428knPeT1obA5rRYbYupEgDDdrkBUyrps2p1NkwyIbsN1LaMp9X0k1gzzKumZhVLZ2oZEpA3NaHwAcXA==",
+  "dgSpecHash": "AvviqPsZGrTlP6zsJkhzmhvhw/jJ5BZ1kVTWXWibMkLcDoQF5R2f8d8ZIm+dxwxZwInlP8lR8eSmq3jbwQ/HsQ==",
   "success": true,
-  "projectFilePath": "D:\\MyDev Porject\\C#\\Fundamentals of C#\\Contact ManagementSystem\\Contact Mangement System\\Contact Mangement System.csproj",
+  "projectFilePath": "D:\\DeskTopApp\\C#\\All\\Contact ManagementSystem\\Contact Mangement System\\Contact Mangement System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\pagelist\\1.2.0\\pagelist.1.2.0.nupkg.sha512"
   ],
